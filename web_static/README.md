@@ -1,10 +1,16 @@
-#AirBnb Clone
+0x01. AirBnB clone - Web static
 
-##Description
-*The HTML and CSS part of the project.(Front-end part)
-*Includes icons and style files  for webpage.
+HTML
+CSS
+Front-end
 
-###Enviroment
-* HTML and CSS.
 
-bribri
+Resources
+Learn to Code HTML & CSS (until “Creating Lists” included)
+Inline Styles in HTML
+Specifics on CSS Specificity
+CSS SpeciFishity
+Introduction to HTML
+CSS
+MDN
+center boxes
